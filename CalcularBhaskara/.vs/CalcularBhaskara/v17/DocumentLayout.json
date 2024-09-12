@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\TestsUnit\u00E1rios\\CalcularBhaskara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAE470C-552D-481B-885C-F4611D530301}|Bhaskara.Tests\\Bhaskara.Tests.csproj|c:\\users\\senai3em\\desktop\\testsunit\u00E1rios\\calcularbhaskara\\bhaskara.tests\\baskaratest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAE470C-552D-481B-885C-F4611D530301}|Bhaskara.Tests\\Bhaskara.Tests.csproj|solutionrelative:bhaskara.tests\\baskaratest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283738B-A929-4594-AA42-165F3F111989}|CalcularBhaskara\\CalcularBhaskara.csproj|c:\\users\\senai3em\\desktop\\testsunit\u00E1rios\\calcularbhaskara\\calcularbhaskara\\bhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283738B-A929-4594-AA42-165F3F111989}|CalcularBhaskara\\CalcularBhaskara.csproj|solutionrelative:calcularbhaskara\\bhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaskaraTest.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\TestsUnit\u00E1rios\\CalcularBhaskara\\Bhaskara.Tests\\BaskaraTest.cs",
+              "RelativeDocumentMoniker": "Bhaskara.Tests\\BaskaraTest.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\TestsUnit\u00E1rios\\CalcularBhaskara\\Bhaskara.Tests\\BaskaraTest.cs",
+              "RelativeToolTip": "Bhaskara.Tests\\BaskaraTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:12:01.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bhaskara.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\TestsUnit\u00E1rios\\CalcularBhaskara\\CalcularBhaskara\\Bhaskara.cs",
+              "RelativeDocumentMoniker": "CalcularBhaskara\\Bhaskara.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\TestsUnit\u00E1rios\\CalcularBhaskara\\CalcularBhaskara\\Bhaskara.cs",
+              "RelativeToolTip": "CalcularBhaskara\\Bhaskara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:10:01.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

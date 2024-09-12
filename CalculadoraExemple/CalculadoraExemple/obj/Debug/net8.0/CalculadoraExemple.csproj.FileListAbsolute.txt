@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\bin\Debug\net8.0\CalculadoraExemple.deps.json
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\bin\Debug\net8.0\CalculadoraExemple.dll
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\bin\Debug\net8.0\CalculadoraExemple.pdb
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\obj\Debug\net8.0\CalculadoraExemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\obj\Debug\net8.0\CalculadoraExemple.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\obj\Debug\net8.0\CalculadoraExemple.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\obj\Debug\net8.0\CalculadoraExemple.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\obj\Debug\net8.0\CalculadoraExemple.dll
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\obj\Debug\net8.0\refint\CalculadoraExemple.dll
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\obj\Debug\net8.0\CalculadoraExemple.pdb
+C:\Users\SENAI3EM\Desktop\Projeto final\CalculadoraExemple\CalculadoraExemple\obj\Debug\net8.0\ref\CalculadoraExemple.dll

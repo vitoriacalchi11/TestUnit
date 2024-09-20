@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-action="Calcular" method="post">
+    <label for="Nome">Nome:</label>
+    <input type="text" name="Nome" />
+
+    <label for="SalarioBase">Salário Base:</label>
+    <input type="number" name="SalarioBase" step="0.01" />
+
+    <label for="Desconto">Desconto:</label>
+    <input type="number" name="Desconto" step="0.01" />
+
+    <label for="Beneficio">Benefício:</label>
+    <input type="number" name="Beneficio" step="0.01" />
+
+    <input type="submit" value="Calcular" />
+</form>
